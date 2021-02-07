@@ -1,0 +1,20 @@
+button {
+    background-color: var(--backgroud-grey);
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+button:hover,
+button:active,
+button:focus {
+    background-color: var(--accent-blue);
+    color: var(--white);
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 3%;
+    text-align: center;
+}

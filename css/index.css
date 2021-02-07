@@ -1,0 +1,26 @@
+.hero {
+    background-color: var(--background-navy);
+    color: var(--white);
+    font-weight: 900;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 60px;
+}
+
+.hero button {
+    color: inherit;
+    background-color: var(--accent-blue);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.hero button:hover {
+    color: inherit;
+    background-color: var(--accent-blue-active);
+}
+
+.our-team {
+    background-color: var(--backgroud-grey);
+}
